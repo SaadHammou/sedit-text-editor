@@ -1,5 +1,5 @@
 SEDIT - Simple Text Editor
-Welcome to sedit! This is a very simple text editor written in Python 3.
+Welcome to sedit! This is a very simple text editor written in Python 3, inspired by retro Apple II Assembly Language code editors!
 
 -- USE --
 Make sure seditHelp.txt is in the same directory as sedit.py!
